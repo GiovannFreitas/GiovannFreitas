@@ -2,7 +2,8 @@
 
 **`Desenvolvedora Backend`**
 
-•<str>Estudante<str>
+• <str>Estudante<str> de Análise e Desenvolvimento de Sistemas - UNINTER
+
 
 <br>
 
