@@ -82,7 +82,8 @@ Olá! Sou Giovanna Silva de Freitas, tenho 18 anos e sou de Pernambuco. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
     />
-<br><br>
+
+<br><br><br>
 
 ---
 
