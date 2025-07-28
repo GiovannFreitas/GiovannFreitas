@@ -6,6 +6,7 @@
 <br>
 • Atualmente estudando Banco de Dados Relacionais 
 
+## Contatos
 
 <div> 
   <a href = "mailto:giovnnfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -13,9 +14,7 @@
   
 </div>
 
----
-
-### 🤖  Linguagens e Tecnologias
+## 🤖  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -85,17 +84,15 @@
 
 <br>
 
----
 
-
-### 📊  Estatísticas
+## 📊  Estatísticas
 
 <p>
   <img 
     align="center" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GiovannFreitas&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 <br>
