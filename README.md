@@ -12,6 +12,8 @@ Me chamo Giovanna Silva de Freitas, tenho 18 anos e sou natural de Pernambuco. A
   
 </div>
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -82,6 +84,18 @@ Me chamo Giovanna Silva de Freitas, tenho 18 anos e sou natural de Pernambuco. A
 
 <br/>
 <br/>
+
+---
+
+### 🌟 Projetos em Destaque
+
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [Portfólio Pessoal](https://github.com/GiovannFreitas/portfolio) | HTML, CSS, JS | Site responsivo com animações e design limpo |
+| [To-do List](https://github.com/GiovannFreitas/todo) | JavaScript | Lista de tarefas com localStorage |
+| [Calculadora de IMC](https://github.com/GiovannFreitas/imc-calc) | HTML, JS | Projeto simples para prática de lógica |
+
+---
 
 ### 📊 Estatísticas
 
