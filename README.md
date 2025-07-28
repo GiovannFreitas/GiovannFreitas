@@ -3,7 +3,7 @@
 **`Desenvolvedora Backend`**
 
 Me chamo Giovanna Silva de Freitas, tenho 18 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-<br><br>
+<br>
 
 <div> 
   <a href="https://instagram.com/giosfreitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@ Me chamo Giovanna Silva de Freitas, tenho 18 anos e sou natural de Pernambuco. A
   
 </div>
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -83,7 +83,7 @@ Me chamo Giovanna Silva de Freitas, tenho 18 anos e sou natural de Pernambuco. A
 <br/>
 <br/>
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
