@@ -2,7 +2,8 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Giovanna Silva de Freitas, tenho 18 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Olá! Sou Giovanna Silva de Freitas, tenho 18 anos e sou de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento de software.
+
 <br>
 
 <div> 
