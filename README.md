@@ -9,27 +9,20 @@
 
 ## 🤖  Linguagens e Tecnologias
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊  Estatísticas
 
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiovannFreitas&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
-  />
-<br>
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannFreitas&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+<img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovannFreitas&layout=compact&langs_count=8&card_width=320&theme=merko">
 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=c099f4">
+    <img   width="50%" alt="rafaelasv's GitHub Stats"src="https://github-readme-stats.vercel.app/api?username=GiovannFreitas&theme=merko&border-color=c099f4" />
+  </a>
 </p>
+</div>
+
+<br/>  
 
 ## Contatos
 
