@@ -13,13 +13,12 @@
 
 ## 📊  Estatísticas
 
-<div align="center">
+<div align="left">
 <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovannFreitas&layout=compact&langs_count=8&card_width=320&theme=merko">
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=c099f4">
     <img   width="50%" alt="rafaelasv's GitHub Stats"src="https://github-readme-stats.vercel.app/api?username=GiovannFreitas&theme=merko&border-color=c099f4" />
   </a>
-</p>
 </div>
 
 <br/>  
