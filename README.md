@@ -24,12 +24,12 @@
  ### Ferramentas
  
  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
- ![FIGMA](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white) 
- ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ ![FIGMA](https://img.shields.io/badge/Figma-A020F0?style=for-the-badge&logo=figma&logoColor=white) 
+ ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
  
 ### 📊  Estatísticas
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiovannFreitas&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannFreitas&layout=compact&theme=merko&hide_border=true" /></a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiovannFreitas&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannFreitas&layout=compact&theme=merko&hide_border=true&custom_title=Tecnologias" /></a> 
 
 
 ### Contatos
