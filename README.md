@@ -4,8 +4,7 @@
 
 • Graduando em Análise e Desenvolvimento de Sistemas - UNINTER 
 
-<br>
-
+<br<
 • Atualmente estudando Banco de Dados Relacionais 
 
 
