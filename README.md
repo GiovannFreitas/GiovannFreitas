@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-• Graduando em Análise e Desenvolvimento de Sistemas - UNINTER 
+• Graduando em Análise e Desenvolvimento de Sistemas na UNINTER 
 <br>
 
 • Atualmente estudando Banco de Dados Relacionais 
