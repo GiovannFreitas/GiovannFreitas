@@ -26,7 +26,7 @@
  
  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
  ![FIGMA](https://img.shields.io/badge/Figma-A020F0?style=for-the-badge&logo=figma&logoColor=white) 
- ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+ 
  
 ### 📊  Estatísticas
 
